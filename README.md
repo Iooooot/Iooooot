@@ -3,10 +3,9 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Everything l like.
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: wht102466@163.com
-- 😄 Read more about my CSDN: [here](https://iooooot.github.io/)
+- 😄 Read more about my Blog: [here](https://iooooot.github.io/)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Iooooot&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
